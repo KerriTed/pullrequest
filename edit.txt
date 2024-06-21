@@ -1,2 +1,2 @@
-name:
-second_name:
+name: Ekaterina
+second_name: Lebedeva
